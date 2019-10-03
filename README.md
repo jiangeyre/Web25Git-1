@@ -1,3 +1,3 @@
 # Web25Git
-this is a test repo for web25
+This is a test repo for Web25.
 # TESTING H1
